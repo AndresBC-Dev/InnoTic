@@ -57,6 +57,26 @@
               "capitulo": "I",
               "tema_principal": "Rol del Aprendiz en su formación"
             }
+          },
+          {
+            "numero": "5",
+            "contenido": "El Centro de Formación Profesional que tenga el servicio de internado para aprendices tendrá disposiciones específicas inscritas en el ámbito del presente Reglamento.",
+            "doctrina_concordante": [
+              "Concepto SENA 35955 de 2019"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Internado para Aprendices"
+            }
+          },
+          {
+            "numero": "6",
+            "contenido": "Cada Centro de Formación de acuerdo con sus condiciones y necesidades propias, facilitará un debido proceso, con base en saber ser, convivir y habitar a través de un acuerdo de convivencia, como herramienta que complementa, y que no modifica, lo establecido en el presente reglamento.",
+            "doctrina_concordante": [],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Acuerdo de Convivencia y Debido Proceso"
+            }
           }
         ]
       }
