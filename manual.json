@@ -148,7 +148,70 @@
         ]
       },
       {
-
+        "titulo": "CAPÍTULO III. Deberes del Aprendiz Sena",
+        "articulos":[
+          {
+            "numero": "9",
+            "contenido": "Se entiende por deber, la obligación legal, social y moral que compromete a la persona a cumplir con determinada actuación, asumiendo con responsabilidad todos sus actos, para propiciar la armonía, el respeto, la integración, el bienestar común, la sana convivencia, el servicio a los demás, la seguridad de las personas y de los bienes de la institución.",
+            "deberes": [
+              "Cumplir con todas las actividades propias de su proceso de aprendizaje o del plan de mejoramiento, definidas durante su etapa lectiva y productiva.",
+              "Respetar los derechos ajenos y no abusar de los propios.",
+              "Verificar en el sistema que sus datos básicos, se encuentren totalmente diligenciados y/o actualizarlos de acuerdo con el trámite administrativo correspondiente.",
+              "Participar en las actividades complementarias o de profundización, relacionadas con el programa de formación, con el fin de gestionar su proceso de aprendizaje.",
+              "Informar y hacer la solicitud, por escrito, al Coordinador Académico y registrar en el sistema de gestión de la formación oportunamente las solicitudes o novedades (Traslados, Aplazamiento, Retiro voluntario y Reingreso), que presente durante el proceso de aprendizaje, utilizando medios virtuales y/o físicos; para los programas de formación complementaria en modalidad virtual, realizar en los sistemas de información el retiro voluntario del programa o inscripción del mismo.",
+              "Si el trámite para la consecución de contrato de aprendizaje o de otra de las alternativas para el desarrollo de la etapa productiva, es realizado directamente por el aprendiz, este deberá informar inmediatamente cuando esto ocurra, a los responsables de apoyar este proceso en el Centro de Formación.",
+              "Proteger los recursos culturales y naturales del país y velar por la conservación del ambiente sano, vinculándose, apoyando y/o colaborando en las acciones que adelante el Centro de Formación.",
+              "Acatar las decisiones contempladas en el Manual de Convivencia.",
+              "Asumir con responsabilidad su participación en las actividades programadas como salidas, pasantías técnicas, intercambios de aprendices a nivel nacional e internacional, así como en las demás de carácter lúdico-pedagógico.",
+              "Hacer uso apropiado de los ambientes de aprendizaje (infraestructura, equipos, herramientas, recursos didácticos, técnicos, tecnológicos, bibliográficos), disponibles para su proceso de aprendizaje, asumiendo responsabilidad legal en situaciones de utilización inadecuada y uso indebido, que deterioran los ambientes de aprendizaje y generan detrimento patrimonial.",
+              "Asistir a las reuniones que programe el Centro de Formación para seguimiento a las actividades desarrolladas durante la etapa productiva. La no asistencia a estas reuniones debe justificarse mediante excusa comprobable.",
+              "Respetar los derechos de autor en los materiales, trabajos, proyectos y demás documentos generados por los grupos de trabajo o compañeros, y que hayan sido compartidos al interior de la Plataforma.",
+              "Conocer y asumir las políticas y directrices institucionales establecidas, así como el Reglamento del Aprendiz Sena, y convivir en comunidad de acuerdo con ellos.",
+              "Portar permanentemente y en lugar visible el carné que lo identifica como Aprendiz Sena, durante su proceso de aprendizaje, renovarlo de acuerdo con las disposiciones vigentes y devolverlo al finalizar el programa o cuando se presente retiro, aplazamiento o cancelación de la matrícula.",
+              "Utilizar la dotación o ropa de trabajo y los elementos de protección personal dispuestos en los ambientes de aprendizaje, observando las condiciones de prevención señaladas por el Instructor o Tutor y organizarlos para ser utilizados exclusivamente en el ambiente de aprendizaje requerido.",
+              "Portar el uniforme de manera decorosa; dentro del Centro de Formación, en los ambientes donde se desarrollen actividades extracurriculares y entornos diferentes al académico. Así como en el desarrollo de la etapa productiva, cuando la empresa patrocinadora lo exija.",
+              "Conservar y mantener en buen estado, orden y aseo, las instalaciones físicas, el material didáctico, equipos y herramientas de la entidad o que estén a cargo de esta, respondiendo por los daños ocasionados a estos intencionalmente o por descuido, debidamente comprobados.",
+              "Actuar siempre teniendo como base los principios y valores para la convivencia; obrar con honestidad, respeto, responsabilidad, lealtad, justicia, compañerismo y solidaridad con la totalidad de los integrantes de la comunidad educativa y expresarse con respeto, cultura y educación, en forma directa, a través de medios impresos o electrónicos.",
+              "Hacer uso apropiado de los espacios de comunicación y respetar a los integrantes de la comunidad educativa, siendo solidario, tolerante y veraz en la información que se publique en medios impresos o digitales.",
+              "Informar al instructor, coordinador, directivo o personal de apoyo, cualquier irregularidad que comprometa el buen nombre y normal marcha del Centro de Formación de la entidad y de la comunidad educativa.",
+              "Respetar la dignidad, intimidad e integridad de los miembros de la comunidad educativa Sena.",
+              "Respetar los bienes y elementos de propiedad de los integrantes de la comunidad educativa y del Sena.",
+              "Obrar conforme al principio del respeto de los derechos de los demás evitando realizar y/o apoyar actos que limiten y/o afecten a la comunidad educativa.",
+              "Presentar siempre las mejores condiciones de aseo y pulcritud personal.",
+              "Enaltecer y respetar los símbolos patrios e institucionales.",
+              "No usar expresiones grotescas en foros de discusión, mensajes, anuncios, correos tanto generales como en grupos de trabajo.",
+              "Cumplir a cabalidad la normatividad vigente del Estado colombiano en lo referente a delitos informáticos.",
+              "Denunciar tratos, propuestas, o actos inmorales de parte de cualquier funcionario y de cualquier miembro de la comunidad educativa.",
+              "Suscribir al momento de asentar la matrícula el Acta de Compromiso como Aprendiz Sena.",
+              "Verificar a través del Sistema Gestión Virtual de Aprendices, que el contrato de aprendizaje con la empresa patrocinadora se encuentre acorde al contrato físico firmado, y en caso de encontrar inconsistencias reportarlo de forma inmediata."
+            ],
+            "paragrafo_1": {
+              "contenido": "Además de los deberes enunciados, el Aprendiz en formación con modalidad virtual y a distancia considerará las siguientes responsabilidades:",
+              "responsabilidades_modalidad_virtual": [
+                "Acceder regularmente a los ambientes virtuales previstos para la formación y mantener una comunicación frecuente con el tutor.",
+                "Dedicar al proceso de aprendizaje las horas semanales señaladas para cada programa, que permitan dar cumplimiento a las horas establecidas, teniendo en cuenta el cronograma y metodología establecidos por el Instructor-Tutor.",
+                "Ingresar a la plataforma virtual, debidamente identificado con el respectivo código de acceso, personal e intransferible.",
+                "Realizar personalmente las evaluaciones, investigaciones, actividades y prácticas de formación, haciendo uso de sus conocimientos, su esfuerzo personal, creatividad y autoría propia.",
+                "Participar en los foros de discusión y demás espacios de socialización del ambiente virtual, reconociendo, compartiendo y construyendo conocimiento.",
+                "Respetar los comentarios o participaciones realizadas por los demás integrantes de la comunidad educativa.",
+                "Cumplir con los trabajos indicados por los Tutores, enviando puntualmente las actividades definidas en el cronograma del Programa."
+              ]
+            },
+            "doctrina_concordante": [
+              "Concepto SENA 56687 de 2019",
+              "Concepto SENA 73412 de 2019",
+              "Concepto SENA 85648 de 2019",
+              "Concepto SENA 77597 de 2021",
+              "Concepto SENA 11527 de 2020",
+              "Concepto SENA 51287 de 2018",
+              "Concepto SENA 37993 de 2017"
+            ],
+            "metadatos": {
+              "capitulo": "III",
+              "tema_principal": "Deberes del Aprendiz"
+            }
+          }
+        ]
       }
     ]
   }
