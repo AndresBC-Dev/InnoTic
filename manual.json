@@ -1,0 +1,63 @@
+{
+  "manual": {
+    "capitulos": [
+      {
+        "titulo": "CAPÍTULO I. Principios Generales",
+        "articulos": [
+          {
+            "numero": "1",
+            "contenido": "La Formación Profesional Integral que orienta el Servicio Nacional de Aprendizaje (Sena), constituye un proceso educativo teórico-práctico de carácter integral, orientado al desarrollo de conocimientos técnicos, tecnológicos y de actitudes y valores para el desarrollo humano y la convivencia social, que le permiten a la persona actuar crítica y creativamente en los contextos productivo y social, es decir, en el Mundo de la Vida.",
+            "doctrina_concordante": [
+              "Concepto SENA 60412 de 2019",
+              "Concepto SENA 52759 de 2019",
+              "Concepto SENA 45118 de 2018",
+              "Concepto SENA 21882 de 2014"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Formación Profesional Integral"
+            }
+          },
+          {
+            "numero": "2",
+            "contenido": "En la Formación Profesional Integral participa la Comunidad Educativa constituida por aprendices, Instructores, padres de familia o acudientes, egresados, personal administrativo y de apoyo, directivos, gremios de la producción y representantes de los trabajadores, de los sectores económicos y sociales y de la comunidad científica.",
+            "doctrina_concordante": [
+              "Concepto SENA 45118 de 2018"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Comunidad Educativa"
+            }
+          },
+          {
+            "numero": "3",
+            "contenido": "Se considera Aprendiz Sena a toda persona matriculada en los programas de formación profesional de la entidad, en cualquier tipo de formación: Titulada o Complementaria, desde las diferentes modalidades Presencial, Virtual o Combinada, por consiguiente debe ser consciente y vivenciar qué derechos y deberes son correlativos e inseparables en su proceso formativo.",
+            "doctrina_concordante": [
+              "Concepto SENA 39101 de 2024",
+              "Concepto SENA 52438 de 2021",
+              "Concepto SENA 11527 de 2020",
+              "Concepto SENA 67845 de 2019",
+              "Concepto SENA 60412 de 2019",
+              "Concepto SENA 18529 de 2019",
+              "Concepto SENA 54262 de 2018",
+              "Concepto SENA 45118 de 2018"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Definición de Aprendiz Sena"
+            }
+          },
+          {
+            "numero": "4",
+            "contenido": "",
+            "doctrina_concordante": [],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Sin contenido aún"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
