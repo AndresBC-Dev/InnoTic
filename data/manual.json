@@ -1,0 +1,387 @@
+{
+  "manual": {
+    "capitulos": [
+      {
+        "titulo": "CAPÍTULO I. Principios Generales",
+        "articulos": [
+          {
+            "numero": "1",
+            "contenido": "La Formación Profesional Integral que orienta el Servicio Nacional de Aprendizaje (Sena), constituye un proceso educativo teórico-práctico de carácter integral, orientado al desarrollo de conocimientos técnicos, tecnológicos y de actitudes y valores para el desarrollo humano y la convivencia social, que le permiten a la persona actuar crítica y creativamente en los contextos productivo y social, es decir, en el Mundo de la Vida.",
+            "doctrina_concordante": [
+              "Concepto SENA 60412 de 2019",
+              "Concepto SENA 52759 de 2019",
+              "Concepto SENA 45118 de 2018",
+              "Concepto SENA 21882 de 2014"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Formación Profesional Integral"
+            }
+          },
+          {
+            "numero": "2",
+            "contenido": "En la Formación Profesional Integral participa la Comunidad Educativa constituida por aprendices, Instructores, padres de familia o acudientes, egresados, personal administrativo y de apoyo, directivos, gremios de la producción y representantes de los trabajadores, de los sectores económicos y sociales y de la comunidad científica.",
+            "doctrina_concordante": [
+              "Concepto SENA 45118 de 2018"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Comunidad Educativa"
+            }
+          },
+          {
+            "numero": "3",
+            "contenido": "Se considera Aprendiz Sena a toda persona matriculada en los programas de formación profesional de la entidad, en cualquier tipo de formación: Titulada o Complementaria, desde las diferentes modalidades Presencial, Virtual o Combinada, por consiguiente debe ser consciente y vivenciar qué derechos y deberes son correlativos e inseparables en su proceso formativo.",
+            "doctrina_concordante": [
+              "Concepto SENA 39101 de 2024",
+              "Concepto SENA 52438 de 2021",
+              "Concepto SENA 11527 de 2020",
+              "Concepto SENA 67845 de 2019",
+              "Concepto SENA 60412 de 2019",
+              "Concepto SENA 18529 de 2019",
+              "Concepto SENA 54262 de 2018",
+              "Concepto SENA 45118 de 2018"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Definición de Aprendiz Sena"
+            }
+          },
+          {
+            "numero": "4",
+            "contenido": "El Aprendiz Sena es protagonista de su formación profesional integral cuya constante debe estar orientada a un buen ser humano y buen ciudadano, solidario, líder, emprendedor, creativo y libre pensador con capacidad crítica.",
+            "doctrina_concordante": [
+              "Concepto SENA 11527 de 2020"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Rol del Aprendiz en su formación"
+            }
+          },
+          {
+            "numero": "5",
+            "contenido": "El Centro de Formación Profesional que tenga el servicio de internado para aprendices tendrá disposiciones específicas inscritas en el ámbito del presente Reglamento.",
+            "doctrina_concordante": [
+              "Concepto SENA 35955 de 2019"
+            ],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Internado para Aprendices"
+            }
+          },
+          {
+            "numero": "6",
+            "contenido": "Cada Centro de Formación de acuerdo con sus condiciones y necesidades propias, facilitará un debido proceso, con base en saber ser, convivir y habitar a través de un acuerdo de convivencia, como herramienta que complementa, y que no modifica, lo establecido en el presente reglamento.",
+            "doctrina_concordante": [],
+            "metadatos": {
+              "capitulo": "I",
+              "tema_principal": "Acuerdo de Convivencia y Debido Proceso"
+            }
+          }
+        ]
+      },
+      {
+        "titulo": "CAPÍTULO II. Derechos del Aprendiz Sena",
+        "articulos": [
+          {
+            "numero": "7",
+            "contenido": "El derecho es la potestad que tiene el aprendiz de gozar de libertades y oportunidades sin exclusión por razones de género, raza, origen familiar, discapacidad, nacionalidad, lengua, religión, opinión política o filosófica. Principalmente todas las personas tienen derecho a la educación y al desarrollo de su personalidad, garantizando a su vez, su desarrollo armónico e integral.",
+            "derechos": [
+              "Recibir formación profesional integral, acorde con el programa a desarrollar, y al crecimiento y desarrollo armónico de sus dimensiones humanas.",
+              "Recibir, al iniciar el proceso de formación a través de la inducción, la información acerca de la naturaleza de la formación profesional integral, de la estructura, organización y funcionamiento del Sena, de la regional y centro, además de la proyección socioeconómica de la ocupación u oficio de su interés, donde estén incluidos contenidos de gestión tecnológica, conocimiento del entorno, aporte a la productividad y competitividad, la concertación de la ruta de aprendizaje, particularmente debe conocer el reglamento para Aprendices de Sena y toda la regulación frente a sus derechos y deberes, al comportamiento y participación dentro de la comunidad educativa.",
+              "Disponer en el Centro de Formación de los recursos físicos, didácticos, técnicos, tecnológicos y bibliográficos requeridos para su proceso de formación, utilizar las instalaciones y la dotación del centro de formación o de otros ambientes educativos donde la entidad desarrolle acciones de formación, de acuerdo con la reglamentación respectiva. Para programas de formación con modalidad virtual el Sena dispondrá a través del ambiente los recursos requeridos para el desarrollo de la formación.",
+              "Recibir en el momento de la legalización su matrícula, el carné que lo acredite como Aprendiz del Sena.",
+              "Disfrutar de los beneficios de bienestar al Aprendiz Sena, orientados a garantizar la formación integral, conforme a la normatividad que rija este tema en el Sena.",
+              "Recibir por parte de la comunidad educativa orientación académica y actitudinal que estimule el desarrollo personal y promueva la convivencia social.",
+              "Respetar el derecho al debido proceso en caso de ser investigado con observancia de las normas establecidas en este reglamento.",
+              "Ser escuchado y atendido en sus peticiones respetuosas, por parte de los directivos, instructores y personal administrativo, ante las dificultades que se puedan presentar en su proceso de formación.",
+              "Exigir alto nivel académico, estrategias y metodología basadas en la construcción interactiva del conocimiento y participar objetivamente en el mejoramiento continuo de los instructores a través de los procesos de evaluación.",
+              "Recibir la certificación que le corresponda, una vez aprobado en forma satisfactoria el programa de formación.",
+              "Ser evaluado objetiva e integralmente, con base en los criterios de evaluación y la ruta de aprendizaje y a conocer, dentro de los ocho (8) días hábiles siguientes, los resultados de las evaluaciones, así como las diferentes novedades académicas, cuando estas ocurrieren, tales como amonestación, sanción, suspensión o cancelación del registro de matrícula.",
+              "Solicitar, de manera respetuosa, la revisión de las evaluaciones correspondientes, si considera que el resultado no es objetivo, siguiendo el procedimiento establecido en este Reglamento.",
+              "Recibir información acerca de las diferentes opciones para desarrollar la etapa productiva, los derechos y obligaciones para el desarrollo de la misma.",
+              "Recibir, por parte del Centro de Formación, asesoría académica e integral durante el proceso de formación.",
+              "Recibir trato digno y respetuoso por parte de todos los integrantes de la Comunidad Educativa.",
+              "Expresar con libertad su pensamiento, conocimiento e ideas en el marco del respeto hacia los demás.",
+              "Recibir oportunamente los elementos de seguridad propios de su ocupación, para la protección de su integridad, en los ambientes de formación del Sena o de otras entidades y lugares donde se presente formación presencial. Los aprendices de las especialidades de construcción, deben recibir la dotación que el Sena les entrega por intermedio del Fondo de la Industria de la Construcción (FIC)."
+            ],
+            "doctrina_concordante": [
+              "Concepto SENA 11527 de 2020",
+              "Concepto SENA 25996 de 2020",
+              "Concepto SENA 18529 de 2019",
+              "Concepto SENA 54262 de 2018",
+              "Concepto SENA 86346 de 2019",
+              "Concepto SENA 45118 de 2018",
+              "Concepto SENA 37993 de 2017"
+            ],
+            "concordancias": [
+              "Resolución SENA 1046 de 2019"
+            ],
+            "metadatos": {
+              "capitulo": "II",
+              "tema_principal": "Derechos del Aprendiz"
+            }
+          },
+          {
+            "numero": "8",
+            "contenido": "Son beneficios y distinciones que se otorgan a los aprendices, como reconocimiento o valoración de actuaciones meritorias o logros sobresalientes obtenidos en los ámbitos del aprendizaje, actitudinal, investigativo, innovador o profesional. Los estímulos e incentivos forman parte del Plan Nacional Integral de Bienestar de los Aprendices y de aquellos que, mediante alianzas o convenios, se adopten para beneficio de los aprendices.",
+            "estímulos_incentivos": [
+              "Recibir mención de honor por su proceso investigativo o innovador, durante su proceso de aprendizaje.",
+              "Ser postulado para realizar pasantía o intercambio nacional o internacional.",
+              "Ser designado como monitor de un tema específico en el cual demuestre competencia, en el programa de formación, en la especialidad y actividades de formación que requiera su aporte.",
+              "Cuando termine su proceso formativo y cumpla el perfil y requisitos necesarios para llegar a ser instructor, formará parte del semillero de nuevos instructores del Sena, si así lo desea.",
+              "Reconocimiento a los aprendices por parte del Comité Evaluación y Seguimiento que se han destacado por su excelente desempeño académico y actitudinal, con copia a la hoja de vida del aprendiz y empresa patrocinadora.",
+              "Por la representación y participación destacada en eventos de aprendizaje, tecnológicos, culturales, sociales y deportivos a nombre del Sena, el aprendiz podrá recibir reconocimiento, incentivo o distinción."
+            ],
+            "paragrafo": "El Comité de Evaluación y Seguimiento en cada Centro de Formación será el encargado de seleccionar los candidatos beneficiarios de los estímulos e incentivos de conformidad con los criterios señalados.",
+            "doctrina_concordante": [
+              "Concepto SENA 103890 de 2013"
+            ],
+            "concordancias": [
+              "Resolución SENA 2038 de 2015"
+            ],
+            "metadatos": {
+              "capitulo": "II",
+              "tema_principal": "Estimulos e Incentivos"
+            }
+          }
+        ]
+      },
+      {
+        "titulo": "CAPÍTULO III. Deberes del Aprendiz Sena",
+        "articulos":[
+          {
+            "numero": "9",
+            "contenido": "Se entiende por deber, la obligación legal, social y moral que compromete a la persona a cumplir con determinada actuación, asumiendo con responsabilidad todos sus actos, para propiciar la armonía, el respeto, la integración, el bienestar común, la sana convivencia, el servicio a los demás, la seguridad de las personas y de los bienes de la institución.",
+            "deberes": [
+              "Cumplir con todas las actividades propias de su proceso de aprendizaje o del plan de mejoramiento, definidas durante su etapa lectiva y productiva.",
+              "Respetar los derechos ajenos y no abusar de los propios.",
+              "Verificar en el sistema que sus datos básicos, se encuentren totalmente diligenciados y/o actualizarlos de acuerdo con el trámite administrativo correspondiente.",
+              "Participar en las actividades complementarias o de profundización, relacionadas con el programa de formación, con el fin de gestionar su proceso de aprendizaje.",
+              "Informar y hacer la solicitud, por escrito, al Coordinador Académico y registrar en el sistema de gestión de la formación oportunamente las solicitudes o novedades (Traslados, Aplazamiento, Retiro voluntario y Reingreso), que presente durante el proceso de aprendizaje, utilizando medios virtuales y/o físicos; para los programas de formación complementaria en modalidad virtual, realizar en los sistemas de información el retiro voluntario del programa o inscripción del mismo.",
+              "Si el trámite para la consecución de contrato de aprendizaje o de otra de las alternativas para el desarrollo de la etapa productiva, es realizado directamente por el aprendiz, este deberá informar inmediatamente cuando esto ocurra, a los responsables de apoyar este proceso en el Centro de Formación.",
+              "Proteger los recursos culturales y naturales del país y velar por la conservación del ambiente sano, vinculándose, apoyando y/o colaborando en las acciones que adelante el Centro de Formación.",
+              "Acatar las decisiones contempladas en el Manual de Convivencia.",
+              "Asumir con responsabilidad su participación en las actividades programadas como salidas, pasantías técnicas, intercambios de aprendices a nivel nacional e internacional, así como en las demás de carácter lúdico-pedagógico.",
+              "Hacer uso apropiado de los ambientes de aprendizaje (infraestructura, equipos, herramientas, recursos didácticos, técnicos, tecnológicos, bibliográficos), disponibles para su proceso de aprendizaje, asumiendo responsabilidad legal en situaciones de utilización inadecuada y uso indebido, que deterioran los ambientes de aprendizaje y generan detrimento patrimonial.",
+              "Asistir a las reuniones que programe el Centro de Formación para seguimiento a las actividades desarrolladas durante la etapa productiva. La no asistencia a estas reuniones debe justificarse mediante excusa comprobable.",
+              "Respetar los derechos de autor en los materiales, trabajos, proyectos y demás documentos generados por los grupos de trabajo o compañeros, y que hayan sido compartidos al interior de la Plataforma.",
+              "Conocer y asumir las políticas y directrices institucionales establecidas, así como el Reglamento del Aprendiz Sena, y convivir en comunidad de acuerdo con ellos.",
+              "Portar permanentemente y en lugar visible el carné que lo identifica como Aprendiz Sena, durante su proceso de aprendizaje, renovarlo de acuerdo con las disposiciones vigentes y devolverlo al finalizar el programa o cuando se presente retiro, aplazamiento o cancelación de la matrícula.",
+              "Utilizar la dotación o ropa de trabajo y los elementos de protección personal dispuestos en los ambientes de aprendizaje, observando las condiciones de prevención señaladas por el Instructor o Tutor y organizarlos para ser utilizados exclusivamente en el ambiente de aprendizaje requerido.",
+              "Portar el uniforme de manera decorosa; dentro del Centro de Formación, en los ambientes donde se desarrollen actividades extracurriculares y entornos diferentes al académico. Así como en el desarrollo de la etapa productiva, cuando la empresa patrocinadora lo exija.",
+              "Conservar y mantener en buen estado, orden y aseo, las instalaciones físicas, el material didáctico, equipos y herramientas de la entidad o que estén a cargo de esta, respondiendo por los daños ocasionados a estos intencionalmente o por descuido, debidamente comprobados.",
+              "Actuar siempre teniendo como base los principios y valores para la convivencia; obrar con honestidad, respeto, responsabilidad, lealtad, justicia, compañerismo y solidaridad con la totalidad de los integrantes de la comunidad educativa y expresarse con respeto, cultura y educación, en forma directa, a través de medios impresos o electrónicos.",
+              "Hacer uso apropiado de los espacios de comunicación y respetar a los integrantes de la comunidad educativa, siendo solidario, tolerante y veraz en la información que se publique en medios impresos o digitales.",
+              "Informar al instructor, coordinador, directivo o personal de apoyo, cualquier irregularidad que comprometa el buen nombre y normal marcha del Centro de Formación de la entidad y de la comunidad educativa.",
+              "Respetar la dignidad, intimidad e integridad de los miembros de la comunidad educativa Sena.",
+              "Respetar los bienes y elementos de propiedad de los integrantes de la comunidad educativa y del Sena.",
+              "Obrar conforme al principio del respeto de los derechos de los demás evitando realizar y/o apoyar actos que limiten y/o afecten a la comunidad educativa.",
+              "Presentar siempre las mejores condiciones de aseo y pulcritud personal.",
+              "Enaltecer y respetar los símbolos patrios e institucionales.",
+              "No usar expresiones grotescas en foros de discusión, mensajes, anuncios, correos tanto generales como en grupos de trabajo.",
+              "Cumplir a cabalidad la normatividad vigente del Estado colombiano en lo referente a delitos informáticos.",
+              "Denunciar tratos, propuestas, o actos inmorales de parte de cualquier funcionario y de cualquier miembro de la comunidad educativa.",
+              "Suscribir al momento de asentar la matrícula el Acta de Compromiso como Aprendiz Sena.",
+              "Verificar a través del Sistema Gestión Virtual de Aprendices, que el contrato de aprendizaje con la empresa patrocinadora se encuentre acorde al contrato físico firmado, y en caso de encontrar inconsistencias reportarlo de forma inmediata."
+            ],
+            "paragrafo_1": {
+              "contenido": "Además de los deberes enunciados, el Aprendiz en formación con modalidad virtual y a distancia considerará las siguientes responsabilidades:",
+              "responsabilidades_modalidad_virtual": [
+                "Acceder regularmente a los ambientes virtuales previstos para la formación y mantener una comunicación frecuente con el tutor.",
+                "Dedicar al proceso de aprendizaje las horas semanales señaladas para cada programa, que permitan dar cumplimiento a las horas establecidas, teniendo en cuenta el cronograma y metodología establecidos por el Instructor-Tutor.",
+                "Ingresar a la plataforma virtual, debidamente identificado con el respectivo código de acceso, personal e intransferible.",
+                "Realizar personalmente las evaluaciones, investigaciones, actividades y prácticas de formación, haciendo uso de sus conocimientos, su esfuerzo personal, creatividad y autoría propia.",
+                "Participar en los foros de discusión y demás espacios de socialización del ambiente virtual, reconociendo, compartiendo y construyendo conocimiento.",
+                "Respetar los comentarios o participaciones realizadas por los demás integrantes de la comunidad educativa.",
+                "Cumplir con los trabajos indicados por los Tutores, enviando puntualmente las actividades definidas en el cronograma del Programa."
+              ]
+            },
+            "doctrina_concordante": [
+              "Concepto SENA 56687 de 2019",
+              "Concepto SENA 73412 de 2019",
+              "Concepto SENA 85648 de 2019",
+              "Concepto SENA 77597 de 2021",
+              "Concepto SENA 11527 de 2020",
+              "Concepto SENA 51287 de 2018",
+              "Concepto SENA 37993 de 2017"
+            ],
+            "metadatos": {
+              "capitulo": "III",
+              "tema_principal": "Deberes del Aprendiz"
+            }
+          }
+        ]
+      },
+      {
+        "titulo":"CAPÍTULO IV. PROHIBICIONES",
+        "articulos":[
+          {
+            "numero": "10",
+            "contenido": "Los aprendices del SENA tienen prohibido incurrir en conductas como plagio, fraude, falsificación de documentos, uso indebido de la identidad o del nombre institucional, así como comportamientos que afecten la convivencia, la integridad de la comunidad educativa o el desarrollo normal de las actividades de formación. También se prohíbe el porte de armas, consumo de sustancias, actos inmorales, sabotaje, destrucción de bienes, suplantación, y el incumplimiento de compromisos académicos o contractuales. Estas acciones pueden afectar gravemente su permanencia en el proceso de formación.",
+            "prohibiciones": [
+              "Plagiar materiales, trabajos y demás documentos generados en los grupos de trabajo o producto del trabajo en equipo institucional, así como las fuentes bibliográficas consultadas en los diferentes soportes.",
+              "Terminar unilateralmente el contrato de aprendizaje, sin el visto bueno del empleador y del Sena.",
+              "Incumplir con las actividades de aprendizaje acordadas y los compromisos adquiridos como Aprendiz Sena, sin justa causa.",
+              "Realizar fraude en evaluaciones, en el proceso de aprendizaje o en concursos, juegos o competencias de cualquier carácter.",
+              "Aportar documentación o información que difiera con la real, para el ingreso a la entidad o para obtener cualquier beneficio de la misma.",
+              "Fumar en áreas no permitidas en el centro de formación, así como ingresar, comercializar, promocionar, ingerir o suministrar bebidas alcohólicas o sustancias psicoactivas, dentro de las instalaciones del Sena, o ingresar a la entidad en estado que indique alteraciones ocasionadas por el consumo de estos.",
+              "Ingresar o portar armas, objetos cortopunzantes, explosivos u otros artefactos que representen riesgo o puedan ser empleados para atentar contra la vida o la integridad física de las personas, para destruir o deteriorar la planta física o los bienes del Sena o de las instituciones con las cuales se adelanten actividades de aprendizaje, culturales, recreativas, deportivas y sociales. Los miembros de la fuerza pública y organismos de seguridad del Estado, que se encuentren en un proceso de aprendizaje, no podrán portar armas en el Centro de Formación.",
+              "Utilizar el nombre del Sena, las instalaciones o campos virtuales, para actividades particulares o con ánimo de lucro, exceptuando aquellas que sean parte de proyectos productivos aprobados por el Subdirector de Centro o la instancia competente.",
+              "Hurtar, estafar o abusar de la confianza de cualquier integrante de la comunidad educativa, o amenazarlo, sobornarlo, coaccionarlo o agredirlo verbal o físicamente, o ser cómplice o copartícipe de delitos contra ellos o contra la Institución.",
+              "Contribuir al desorden y/o al desaseo.",
+              "Destruir, sustraer, dañar total o parcialmente instalaciones físicas, equipos, materiales, software, elementos y dotación en general del Sena o de instituciones, empresas u otras entidades donde se desarrollen actividades de aprendizaje, culturales, recreativas, deportivas y sociales o intercambios estudiantiles nacionales o internacionales.",
+              "Obstaculizar el ingreso a las instalaciones de los Centros de Formación y/o perturbar el desarrollo normal de las actividades de aprendizaje, liderando o apoyando este tipo de actos en oficinas, ambientes de aprendizaje, zonas de descanso, bibliotecas y en general donde estas se desarrollen.",
+              "Practicar o propiciar juegos de azar, rifas u otros como la ouija, etc, con miembros de la comunidad educativa, al interior de las instalaciones del Sena, sin autorización de la instancia competente.",
+              "Realizar acciones proselitistas de carácter político o religioso dentro de las instalaciones del Sena y demás ambientes donde se desarrollen actividades formativas, así como propiciar actos indecorosos, de acoso, maltrato físico y/o mental, o conductas que puedan afectar a cualquier miembro de la comunidad educativa.",
+              "Permanecer con el uniforme acordado para el programa de formación de la especialidad, en situaciones o lugares ajenos al proceso de aprendizaje, que deterioren la imagen institucional.",
+              "Generar, transmitir, publicar o enviar información confidencial, de circulación restringida, inadecuada, malintencionada, violenta, pornográfica, insultos o agresiones por los medios de comunicación físicos o electrónicos, disponibles para su proceso de aprendizaje.",
+              "Todo acto que sabotee, perturbe o impida las actividades de formación, administrativas y de bienestar que se realicen en la entidad o en los sitios donde se le represente.",
+              "Realizar comportamientos contrarios a la normativa Sena en lugares donde se adelanten eventos de formación nacional o internacional, que atenten contra la imagen del Sena o del país.",
+              "Incumplir con la fecha límite de reintegro al Centro de Formación después de haber participado en un programa de movilidad estudiantil nacional o internacional.",
+              "Incumplir las normas de convivencia establecidas en cada Centro de Formación o Internado.",
+              "Suplantar identidad durante el proceso de formación.",
+              "Ingresar o salir de cualquier instalación del Centro de Formación o de la entidad donde se desarrolle la formación, por sitios diferentes a la portería, saltando muros, cercas o violentando puertas, ventanas y cerraduras.",
+              "Alterar, adulterar, falsificar o sustraer documentos oficiales, calificaciones, evaluaciones o firmas correspondientes al Sena o emitidos por ella.",
+              "Elaborar escritos o mensajes satíricos, dibujar y/o escribir sobre cualquier superficie, objeto o mueble de las instalaciones donde se desarrollan programas de formación; o pegar avisos, carteles, pancartas o análogos en sitios no autorizados.",
+              "Propiciar conductas, propuestas o actos inmorales hacia cualquier miembro de la comunidad educativa, que atenten contra la integridad física, moral y/o psicológica.",
+              "Incumplir con las entrevistas o procesos de selección a los que ha sido citado por las empresas patrocinadoras para la consecución de su contrato de aprendizaje.",
+              "Cometer faltas en el desarrollo del contrato de aprendizaje que originen la finalización unilateral del contrato por parte de la empresa patrocinadora con justa causa y agotado el debido proceso.",
+              "Firmar contratos de aprendizaje sin realizar la gestión a través del Sistema Gestión Virtual de Aprendices, o sin encontrarse registrado como aprendiz disponible en dicha plataforma.",
+              "Incumplir con la presentación de documentos establecidos en el Sistema de Gestión Virtual de Aprendices y los emitidos por la oficina de relaciones corporativas del Centro de Formación respectivo, para acceder al contrato de aprendizaje."
+            ],
+            "doctrina_concordante":[
+               "Concepto SENA 51287 de 2018",
+                "Concepto SENA 11527 de 2020",
+                "Concepto SENA 73412 de 2019",
+                "Concepto SENA 37993 de 2017"
+            ],
+            "concordancias":[
+              "Circular SENA 144 de 2023"
+            ],
+            "metadatos": {
+              "capitulo": "IV",
+              "tema_principal": "Prohibiciones"
+            }
+          }
+        ]
+      },
+      {
+        "titulo": "CAPÍTULO V. Desarrollo de la Etapa Productiva",
+        "articulos": [
+          {
+            "numero": "11",
+            "contenido": "La etapa productiva del programa de formación es aquella en la cual el Aprendiz Sena aplica, complementa, fortalece y consolida sus competencias, en términos de conocimiento, habilidades, destrezas, actitudes y valores. La etapa productiva debe permitirle al aprendiz aplicar en la resolución de problemas reales del sector productivo, los conocimientos, habilidades y destrezas pertinentes a las competencias del programa de formación, asumiendo estrategias y metodologías de autogestión.",
+            "doctrina_concordante": [
+              "Concepto SENA 47941 de 2022",
+              "Concepto SENA 57532 de 2019",
+              "Concepto SENA 56687 de 2019",
+              "Concepto SENA 52759 de 2019",
+              "Concepto SENA 31411 de 2019",
+              "Concepto SENA 71168 de 2018",
+              "Concepto SENA 67828 de 2018",
+              "Concepto SENA 20267 de 2018",
+              "Concepto SENA 21882 de 2014"
+            ],
+            "metadatos": {
+              "capitulo": "V",
+              "tema_principal": "Desarrollo de la etapa productiva"
+            }
+          },
+          {
+            "numero": "12",
+            "contenido": "Para la realización de la etapa productiva requerida en el proceso de aprendizaje de los Aprendices del Sena, se deben considerar las siguientes alternativas:Desempeño en una empresa a través del Contrato de Aprendizaje en las diferentes empresas obligadas y/o voluntarias, incluido el Sena. La constancia de cumplimiento a satisfacción es expedida por la empresa respectiva. Desempeño a través de vinculación laboral o contractual en actividades relacionadas con el programa de formación de conformidad con la normativa dispuesta para contratos de aprendizaje. La constancia de cumplimiento a satisfacción es expedida por la empresa respectiva.\n- Participación en un proyecto productivo, o en Sena - Empresa, o en Sena Proveedor Sena o en Producción de Centros, cuando se definen los proyectos en el marco de un programa de formación y estos posibilitan la simulación de entornos productivos reales y la aplicación de conocimientos, habilidades y destrezas pertinentes a las competencias del programa para cumplir con el objetivo de la etapa productiva, donde se concierta sobre las condiciones de estadía, esto es, pago de algún auxilio económico o en especie. La constancia de cumplimiento a satisfacción la expide el Subdirector de Centro respectivo. De apoyo a una unidad productiva familiar, donde el aprendiz pueda aplicar en las actividades que desarrolla las competencias adquiridas durante su proceso de formación. En este caso el aprendiz hace su propia concertación con la unidad productiva sobre las condiciones de estadía, esto es, pago de algún auxilio económico o en especie y el certificado de cumplimiento de la pasantía lo brinda el responsable del proceso del aprendiz en la unidad productiva. De apoyo a una institución estatal nacional, territorial, o a una ONG, o a una entidad sin ánimo de lucro, para el desempeño de actividades prácticas asociadas a su programa de formación o el desarrollo de un proyecto productivo en un ambiente de formación facilitado por esta institución, donde el aprendiz hace su propia concertación con la institución sobre las condiciones de estadía, esto es, pago de algún auxilio económico o en especie. La constancia o certificado de cumplimiento de la pasantía la expide el directivo o responsable del proceso del aprendiz en la institución. Monitorías: De acuerdo con la reglamentación establecida en la Institución para los procesos de aprendizaje, el desarrollo de monitorías por parte de los Aprendices Sena en las especialidades que son afines tecnológicamente a su programa de formación en un Centro de Formación del Sena, serán contempladas como alternativa para la etapa productiva. La constancia o certificado de cumplimiento a satisfacción de las actividades de monitoría la expide el Subdirector de Centro de acuerdo a las horas asignadas por resolución. Pasantías: Entre las cuales se contempla la asesoría a Pymes como alternativa de etapa productiva.",
+            "doctrina_concordante": [
+              "Circular SENA 179 de 2024",
+              "Concepto SENA 49870 de 2023",
+              "Concepto SENA 1288 de 2021",
+              "Concepto SENA 67828 de 2018"
+            ],
+            "paragrafos": [
+              {
+                "numero": "1",
+                "contenido": "La permanencia del Aprendiz en la etapa productiva podrá gestionarse con el acceso a cualquiera de las alternativas planteadas en este artículo, o la combinación de varias de ellas durante el proceso de formación.",
+                "doctrina_concordante": [
+                  "Concepto SENA 52759 de 2019",
+                  "Concepto SENA 54262 de 2018",
+                  "Concepto SENA 54262 de 2018"
+                ]
+              },
+              {
+                "numero": "2",
+                "contenido": "Cuando un aprendiz tenga vínculo laboral previo inicio de la formación y esta no afecte el desarrollo de las actividades establecidas previamente para la ejecución de la formación, podrá optar por presentar dicho vínculo como etapa productiva cumpliendo con todos los requisitos que esta implica; es decir, se realizará una concertación de las actividades que debe estar desarrollando en la empresa, así como el seguimiento tanto presencial como virtual que debe ejecutar el instructor; esto implicará que estos aprendices podrán estar desarrollando la etapa productiva y lectiva de manera simultánea.",
+                "doctrina_concordante": [
+                  "Concepto SENA 2031 de 2021",
+                  "Concepto SENA 62192 de 2020"
+                ]
+              },
+              {
+                "numero": "3",
+                "contenido": "El Sena evaluará periódicamente las diferentes alternativas de etapa productiva como parte del seguimiento y la evaluación permanente en el marco del mejoramiento continuo, y como estrategia de aseguramiento de la calidad de la formación profesional integral.",
+                "doctrina_concordante": [
+                  "Concepto SENA 29109 de 2023",
+                  "Concepto SENA 47941 de 2022",
+                  "Concepto SENA 73208 de 2021",
+                  "Concepto SENA 67517 de 2021",
+                  "Concepto SENA 14197 de 2020",
+                  "Concepto SENA 57532 de 2019",
+                  "Concepto SENA 37908 de 2019",
+                  "Concepto SENA 31411 de 2019",
+                  "Concepto SENA 71168 de 2018",
+                  "Concepto SENA 67828 de 2018",
+                  "Concepto SENA 39266 de 2018",
+                  "Concepto SENA 20267 de 2018",
+                  "Concepto SENA 21882 de 2014"
+                ]
+              }
+            ],
+            "metadatos": {
+              "capitulo": "V",
+              "tema_principal": "Alternativas para la realización de la etapa productiva"
+            }
+          },
+          {
+            "numero": "13",
+            "contenido": "Es responsabilidad del aprendiz gestionar oportunamente su registro en el Sistema de Gestión Virtual de Aprendices para poder optar por un contrato de aprendizaje. El Aprendiz es responsable de actualizar permanentemente los datos que registre en este sistema, verificar que correspondan a los registrados en el sistema para la gestión de la formación y consultar periódicamente las oportunidades de contrato de aprendizaje que reportan los empresarios. Cuando el Aprendiz opta por otra alternativa diferente al contrato de aprendizaje, esta debe ser aprobada previamente por el Coordinador Académico del programa del respectivo Centro de Formación y la información deberá registrarse inmediata y directamente en el sistema para la gestión de la formación.",
+            "doctrina_concordante": [
+              "Concepto SENA 29109 de 2023",
+              "Concepto SENA 47941 de 2022",
+              "Concepto SENA 20267 de 2018",
+              "Concepto SENA 21882 de 2014"
+            ],
+            "metadatos": {
+              "capitulo": "V",
+              "tema_principal": "Registro de la etapa productiva"
+            }
+          },
+          {
+            "numero": "14",
+            "contenido": "El seguimiento a la etapa productiva es obligatorio y se realizará de manera virtual y presencial. El Aprendiz elaborará una bitácora quincenal, en la que señalará las actividades adelantadas en desarrollo de su etapa productiva en cualesquiera de las alternativas, para que el Instructor asignado como responsable pueda hacer seguimiento de acuerdo a los indicadores establecidos en el procedimiento de ejecución de la formación, garantizando una interacción continua entre el Aprendiz y el Instructor; esta actividad se debe complementar con visitas o comunicación directa que realice el Instructor.",
+            "doctrina_concordante": [
+              "Concepto SENA 49870 de 2023",
+              "Concepto SENA 73208 de 2021",
+              "Concepto SENA 20267 de 2018",
+              "Concepto SENA 21882 de 2014"
+            ],
+            "paragrafos": [
+              {
+                "numero": "1",
+                "contenido": "Si el Aprendiz no alcanza los resultados de aprendizaje de la etapa productiva se procederá a realizar comité de evaluación quien analizará el caso para emitir los juicios evaluativos finales, si los juicios no alcanzan los resultados de aprendizaje de la etapa productiva se procederá a cancelar la matrícula, previo agotamiento del debido proceso.",
+                "doctrina_concordante": [
+                  "Concepto SENA 49870 de 2023",
+                  "Concepto SENA 73208 de 2021",
+                  "Concepto SENA 20267 de 2018",
+                  "Concepto SENA 21882 de 2014"
+                ]
+              }
+            ],
+            "metadatos": {
+              "capitulo": "V",
+              "tema_principal": "Seguimiento y evaluación de la etapa productiva"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
