@@ -49,11 +49,13 @@
           },
           {
             "numero": "4",
-            "contenido": "",
-            "doctrina_concordante": [],
+            "contenido": "El Aprendiz Sena es protagonista de su formación profesional integral cuya constante debe estar orientada a un buen ser humano y buen ciudadano, solidario, líder, emprendedor, creativo y libre pensador con capacidad crítica.",
+            "doctrina_concordante": [
+              "Concepto SENA 11527 de 2020"
+            ],
             "metadatos": {
               "capitulo": "I",
-              "tema_principal": "Sin contenido aún"
+              "tema_principal": "Rol del Aprendiz en su formación"
             }
           }
         ]
